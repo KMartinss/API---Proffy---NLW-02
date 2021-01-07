@@ -1,4 +1,8 @@
-# Funcionalidades
+
+
+# PROFFY
+
+API do projeto Proffy desenvolvido durante a Semana Next Level #02
 
 ## CONEXÕES
 - Rota para listar o total de conexões realizadas;
@@ -7,6 +11,5 @@
 
 ## AULAS
 - Rota para criar uma aula;
-
 - Listar aulas;
-  - Fitrar por matéria/ dia da semana/ horário;
+- Fitrar por matéria/ dia da semana/ horário;
